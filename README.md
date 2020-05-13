@@ -12,12 +12,12 @@
 
 文件名称 :智慧学习 Beta.7z
 
-文件大小 :1051813 byte
+文件大小 :1051849 byte
 
 文件类型 :7-zip archive data
 
-MD5:7f80a2c5b2d4f670da5c5a05665e9200
+MD5:303e7b64a7594ebd878a060d8436fdb7
 
-[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/dc1939c00f93be9f2efd2b235e104922)
+[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/2622b39450fbf63ca5bbaf38d0ad3f12)
 
 ### 如有安全软件拦截，纯属误报，请使用[火绒安全](https://www.huorong.cn/person5.html)
