@@ -17,7 +17,3 @@
 文件类型 :7-zip archive data
 
 MD5:303e7b64a7594ebd878a060d8436fdb7
-
-[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/2622b39450fbf63ca5bbaf38d0ad3f12)
-
-### 如有安全软件拦截，纯属误报，请使用[火绒安全](https://www.huorong.cn/person5.html)
