@@ -9,11 +9,3 @@
 ![image](https://s1.ax1x.com/2020/04/29/J7ceIS.png)
 
 [高速下载《智慧学习 Beta》](https://cdn.jsdelivr.net/gh/aiyotu/zhihuixuexi@master/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0%20Beta.7z)
-
-文件名称 :智慧学习 Beta.7z
-
-文件大小 :1051849 byte
-
-文件类型 :7-zip archive data
-
-MD5:303e7b64a7594ebd878a060d8436fdb7
