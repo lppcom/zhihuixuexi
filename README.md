@@ -7,5 +7,3 @@
 [查看软件界面](https://s1.ax1x.com/2020/04/29/J7ceIS.png)
 
 ![image](https://s1.ax1x.com/2020/04/29/J7ceIS.png)
-
-[高速下载《智慧学习 Beta》](https://cdn.jsdelivr.net/gh/aiyotu/zhihuixuexi@master/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0%20Beta.7z)
